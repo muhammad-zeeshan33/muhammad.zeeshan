@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @web-tech33
+- 👋 Hi, I’m @muhammad-zeeshan
 - 👀 I’m interested in web developments and related skills
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on React
